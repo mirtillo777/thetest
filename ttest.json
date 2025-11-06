@@ -2,7 +2,7 @@
   "name": "TheTest",
   "symbol": "TTEST",
   "description": "TheTest ($TTEST) — token di prova su Solana Devnet per test e sperimentazioni.",
-  "image": "https://<tuo-username>.github.io/thetest-metadata/ttest.png",
+  "image": "https://mirtillo777.github.io/thetest/ttest.png",
   "attributes": [
     { "trait_type": "Network", "value": "Solana Devnet" },
     { "trait_type": "Category", "value": "Test Token" }
@@ -10,7 +10,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://<tuo-username>.github.io/thetest-metadata/ttest.png",
+        "uri": "https://mirtillo777.github.io/thetest/ttest.png",
         "type": "image/png"
       }
     ],
